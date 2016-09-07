@@ -1,4 +1,4 @@
-# CLI Games
+# Pygames
 
 ### Contents
 
@@ -9,7 +9,7 @@
 ### Install and run
 
 ```bash
-git clone https://github.com/erszk/cli-games.git;
-cd cli-games;
+git clone https://github.com/erszk/pygames.git;
+cd pygames;
 ./fif.py
 ```
